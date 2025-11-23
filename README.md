@@ -2,7 +2,7 @@
 <h3 align="center">A Next-Generation Digital Forensics Framework </h3>  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-CYBER--MRINAL-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Author-CYBER--4RMY-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Built%20With-Bash-orange?style=for-the-badge&logo=gnubash" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Unix-lightgrey?style=for-the-badge&logo=linux" />
@@ -73,7 +73,7 @@ SUDARSHAN/
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/CYBER-MRINAL/SUDARSHAN.git
+git clone https://github.com/CYBER-4RMY/SUDARSHAN.git
 cd SUDARSHAN
 ```
 
@@ -141,6 +141,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Built with precision by **[CYBER-MRINAL](https://github.com/CYBER-MRINAL)**
+Built with precision by **[CODE](https://github.com/CYBER-4RMY)**
 
 ---
