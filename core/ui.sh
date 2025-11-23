@@ -1,6 +1,6 @@
 #!/bin/bash
 # SUDARSHAN: Next-Gen Modular Forensic Framework
-# Author: CYBER-MRINAL
+# Author: CYBER-4RMY
 
 # Colors & formatting
 RESET="\e[0m"
@@ -32,7 +32,7 @@ banner() {
     echo -e "${CYAN}╔════════════════════════════════════════════╗"
     echo -e "║${BOLD}        SUDARSHAN FRAMEWORK v1.0            ${RESET}${CYAN}║"
     echo -e "╠════════════════════════════════════════════╣"
-    echo -e "║ DEVLOPED BY: ${YELLOW}CYBER-MRINAL${CYAN}                  ║"
+    echo -e "║ DEVLOPED BY: ${YELLOW}CYBER-4RMY${CYAN}                  ║"
     echo -e "╚════════════════════════════════════════════╝${RESET}"
     echo
 }

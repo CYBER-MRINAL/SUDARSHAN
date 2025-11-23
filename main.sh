@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # =====================================================
 # SUDARSHAN: Robust Modular Forensic Framework - main.sh
-# Author: CYBER-MRINAL
+# Author: CYBER-4RMY
 # =====================================================
 
 set -o errexit
